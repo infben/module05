@@ -27,3 +27,7 @@ The license used for this project is http://www.apache.org/licenses/LICENSE-2.0
 ## Contributing
 
 To contribute to this project create a pull request
+
+## Random
+
+will add a random function for the dice
